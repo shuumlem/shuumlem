@@ -23,3 +23,6 @@
 # ✜ Stats
 
 ![](https://komarev.com/ghpvc/?username=shuumlem&color=1e81b0&style=for-the-badge)
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
