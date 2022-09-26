@@ -15,6 +15,10 @@
  <img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+# ✜ Workspace
+
+![](https://img.shields.io/badge/asus%20laptop_vivobook_15x-007DB8?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 # ✜ Contact
 
 <a target="_blank" href="https://m.me/hieudangiu88"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a>
