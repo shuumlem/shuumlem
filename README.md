@@ -25,4 +25,8 @@
 ![](https://komarev.com/ghpvc/?username=shuumlem&color=1e81b0&style=for-the-badge)
 
 <!-- TODO-IST:START -->
+🏆  100 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
