@@ -1,6 +1,9 @@
 
 <p align=center><img src='./img/Hisu.png'></p>
-<p align=center style='width:100%'>
+  <br>
+  <br>
+  
+  
   
 |                 **Language**                     |
 | :------------------------------------: |
