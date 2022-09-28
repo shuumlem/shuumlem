@@ -35,9 +35,10 @@
   
 # ✜ Stats
 </summary>
+ </details><hr> 
   
 ![](https://komarev.com/ghpvc/?username=shuumlem&color=1e81b0&style=for-the-badge)
-</details><hr>
+
 
 <!-- TODO-IST:START -->
 🏆  250 Karma Points           
